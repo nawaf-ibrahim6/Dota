@@ -22,38 +22,24 @@ The data for this project was collected from four different datasets, each provi
 These datasets were combined to perform a comprehensive analysis of the Dota 2 competitive scene.
 
 ## Analysis
-The analysis focuses on visualizations to provide insights into the Dota 2 competitive scene. The visualizations cover various aspects such as :
-1. Teams that played the most:
-   ![alt text](https://github.com/Nikaai/Dota/blob/master/Images/1.png)
+The analysis focuses on visualizations to provide insights into the Dota 2 competitive scene. The visualizations cover various aspects such as:
+
+1. **Teams that played the most**
+
+2. **Teams that won the most**
+
+3. **Heroes that got picked the most**:
+
+4. **Top tournaments by prize money**:
+
+5. **Top teams by prize money**:
    
+6. **Percentages of prize money won by teams in each tournament** (for example, OG):
+   
+7. **Heroes with the highest winning percentage**:
    
 
-
-3. Teams that won the most:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/02a8a406-2e44-4deb-8b3f-f31aa15faf70)
-
-
-4. Heroes that got picked the most:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/58960aff-d3e4-4543-a862-63d6273dbe25)
-
-
-5. Top tournaments by prize money:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/8886fd94-b797-49d7-98d9-d374fb4fddd3)
-
-
-6. Top teams by prize money:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/de813347-f7a7-4a67-8dce-eeb959bf9bd0)
-
-
-7. Percentages of prize money won by teams in each tournament for example OG here:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/67c71332-13ab-49cc-bcd2-4714f2489be4)
-
-
-8. Heroes with the highest winning percentage:
-   ![image](https://github.com/Nikaai/Dota/assets/132098229/568cb5c9-5018-4486-a030-2cd9890104c6)
-
-
-and many more...
+And many more...
 
 ## Visualizations
 The project includes 69 plots that represent various aspects of the data. These plots provide a visual understanding of the trends and patterns in the Dota 2 competitive scene.
