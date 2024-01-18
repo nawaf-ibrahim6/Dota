@@ -58,6 +58,9 @@ This project was implemented using Python and Jupyter Notebook. The following Py
 
 These tools and libraries were integral in performing the data analysis and creating the visualizations for this project.
 
+## PySpark Implementation
+
+In addition to the original Python and Pandas implementation, a new version of the project has been added which uses PySpark for data processing. PySpark is a Python library for Apache Spark, an open-source, distributed computing system used for big data processing and analytics. The PySpark version of the project can be found in the pyspark_implementation folder.
 
 ## How to Use
 
